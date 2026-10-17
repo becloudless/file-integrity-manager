@@ -24,7 +24,7 @@
 
             src = self;
 
-            vendorHash = "sha256-G77lbbKp1zfgcOP9CHqPA0kuh2jdXoVfAe+oEQjsmQc=";
+            vendorHash = "sha256-hCTPy6soXmc/LwGOmszCeKQrMaujQyNdVsOlOSJAZGI=";
 
             nativeBuildInputs = [ pkgs.git ];
 
